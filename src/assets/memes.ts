@@ -14,7 +14,6 @@ export const MEMES = [
     { src: "/images/meme16.jpg" },
     { src: "/images/meme12.jpg" },
     { src: "/images/meme7.jpg" },
-    { src: "/images/meme13.jpg" },
     { src: "/images/meme3.jpg" },
     { src: "/images/meme17.jpg" },
     { src: "/images/meme19.jpg" },

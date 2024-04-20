@@ -38,7 +38,7 @@ export default function Header() {
                     <div className="w-fit flex-1 flex justify-end">
                         <Link href="https://raydium.io/swap/?outputCurrency=FkBF9u1upwEMUPxnXjcydxxVSxgr8f3k1YXbz7G7bmtA" target="_blank"
                             className="text-base lg:text-xl hover:bg-[#0f0] hover:text-black py-2.5 px-6 rounded-full
-                        bg-black text-[#0f0] border border-[#0f0] transition-all">
+                        bg-black text-[#0f0] border border-[#0f0] transition-all font-medium">
                             Buy $GLORP
                         </Link>
                     </div>
