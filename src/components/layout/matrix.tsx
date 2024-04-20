@@ -25,7 +25,7 @@ export default function Matrix(props: any) {
         }
 
         function draw() {
-            ctx.fillStyle = 'rgba(0, 0, 0, .2)';
+            ctx.fillStyle = 'rgba(0, 0, 0, .15)';
             ctx.font = "18px Arial";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             for (var i = 0; i < drops.length; i++) {
@@ -39,7 +39,7 @@ export default function Matrix(props: any) {
             }
         }
 
-        setInterval(draw, 110);
+        setInterval(draw, 100);
     }, []);
 
     return (
